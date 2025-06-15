@@ -5,7 +5,7 @@ This is a simple ATM program made using the C programming language. It allows a 
 - Check balance  
 - Deposit money  
 - Withdraw money  
-- Change PIN  
+- Change the PIN  
 - View the transaction history  
 
 The program uses text files to save data like balance, PIN and history.
