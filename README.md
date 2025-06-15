@@ -1,4 +1,4 @@
-# ATM Project in C
+## ATM Project in C
 
 This is a simple ATM program made using the C programming language. It allows a user to:
 
@@ -6,9 +6,9 @@ This is a simple ATM program made using the C programming language. It allows a 
 - Deposit money  
 - Withdraw money  
 - Change PIN  
-- View transaction history  
+- View the transaction history  
 
-The program uses text files to save data like balance, PIN, and history.
+The program uses text files to save data like balance, PIN and history.
 
 ## How to Run
 
@@ -21,6 +21,6 @@ The program uses text files to save data like balance, PIN, and history.
 
 - `pin.txt` — stores the PIN  
 - `balance.txt` — stores the balance  
-- `history.txt` — stores transaction records  
+- `history.txt` — stores the transaction records  
 
 
