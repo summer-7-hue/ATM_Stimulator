@@ -2,9 +2,9 @@
 
 This is a simple ATM program made using the C programming language. It allows a user to:
 
-- Check balance  
-- Deposit money  
-- Withdraw money  
+- Check the balance  
+- Deposit money in account  
+- Withdraw money from account 
 - Change the PIN  
 - View the transaction history  
 
